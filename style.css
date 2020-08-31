@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+body {background-color: rgb(206, 194, 145)}
+#profile {
+  text-align: right;
+  padding-right: 3%;
+}
+#menu {
+  
+  text-align: right;
+  padding-right: 20%;
+  background-color: rgb(240, 232, 200);
+}
+#socials {
+  padding-top: 3%;
+  text-align: right;
+  padding-right: 3%;
+}
+#gallery {
+  font-size: 20mm;
+  text-align: center;
+}
+#about {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 350;
+  padding-left: 10%;
+  padding-right: 30%;
+}
+#serv {
+  padding-top: 5%;
+  padding-left: 30%;
+  padding-right: 10%;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
+}
+#wel {background-color: rgb(184, 108, 9);}
