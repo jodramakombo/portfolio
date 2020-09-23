@@ -5,6 +5,10 @@ h1 {
   text-align: center;
 }
 body {
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  background-size: cover;
   background-color: rgb(0, 0, 0, 0.95);
 }
 #profile {
@@ -55,7 +59,7 @@ body {
   font-size: 20px;
 }
 #wel {
-  background-color: rgb(0, 0, 0, 0.5);
+  background-image: url("https://images.pexels.com/photos/92248/pexels-photo-92248.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
   margin-bottom: -15px;
   padding-top: 10px;
   margin: -10px;
