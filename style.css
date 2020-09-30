@@ -1,0 +1,81 @@
+body {
+  background-color: whitesmoke;
+}
+.gridbox {
+  margin-top: -10px;
+  display: grid;
+  grid-template-columns: auto 85%;
+}
+#wel {
+  font-size: 35px;
+}
+.grid2 {
+  background-color: grey;
+  position: relative;
+  height: 550px;
+  margin: 0 -10px 0 0;
+}
+.innerbox {
+  background-color: cornsilk;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 75%;
+  width: 80%;
+}
+.innercircle {
+  text-align: center;
+  position: absolute;
+  left: 17%;
+  top: 30%;
+  height: 70px;
+  width: 70px;
+  background-color: grey;
+  border-radius: 50%;
+  z-index: 1;
+}
+#by {
+  margin-top: 25px;
+  font-size: 25px;
+}
+#art {
+  position: absolute;
+  left: 2%;
+  top: 0%;
+  font-size: 70px;
+}
+#jho {
+  position: absolute;
+  left: 25%;
+  top: 30%;
+  font-size: 70px;
+  z-index: 1;
+}
+#p {
+  position: absolute;
+  left: 14%;
+  bottom: -10%;
+  font-size: 120px;
+}
+#ort {
+  position: absolute;
+  left: 20%;
+  bottom: 5%;
+  text-align: left;
+  font-size: 60px;
+  z-index: 1;
+}
+#folio {
+  position: absolute;
+  text-align: left;
+  bottom: -6%;
+  left: 20%;
+  font-size: 60px;
+  z-index: 1;
+}
+#fol {
+  padding-left: 80px;
+}
+hr {
+  margin-bottom: -5px;
+}
