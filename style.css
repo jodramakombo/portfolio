@@ -1,3 +1,6 @@
+html, body {
+  height: 100%;
+}
 body {
   background-color: whitesmoke;
 }
@@ -121,7 +124,7 @@ li {
   bottom: 0%;
   left: 0%;
   top: 80%;
-  right: 68%;
+  right: 70%;
   background-color: whitesmoke;
 }
 #gallery {
@@ -129,4 +132,29 @@ li {
 }
 #gal {
   font-size: 20px;
+}
+.footer {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  height: 100px;
+  background-color: teal;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: -20px;
+}
+.cont1 {
+  text-align: center;
+}
+.socials {
+  margin-top: -10px;
+  word-spacing: 30px;
+}
+.cont2 {
+  text-align: center;
+}
+h4 {
+  margin-bottom: 10px;
+}
+#git {
+  margin-top: -20px;
 }
